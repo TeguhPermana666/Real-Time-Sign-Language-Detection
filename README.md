@@ -9,3 +9,5 @@ Methode works :
 1. Prepare image labels using labeling
 2. Transfer learning using ssd mobilenet
 3. Real time detection using webcam and opencv
+
+# DELAY -> NEED CAM
